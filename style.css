@@ -1,0 +1,38 @@
+body {
+    font-size: 35px;
+    font-family: "She's a delightful bundle of joy, with cheeks as rosy as ripe peaches 🍑. Her laughter is a melody that fills the room with warmth, and her hugs are like cozy blankets on a chilly night. In her curves, she holds the secrets of comfort and kindness, radiating a charm that's as irresistible as a freshly baked cookie 🍪.";
+    margin: 0%;
+}
+
+.name {
+    color: blue;
+}
+
+.design {
+    background-color: rgb(221, 228, 236);
+    padding: 12px;
+    font-size: 35px;
+    border-radius: 15px;
+    font-weight: 500px;
+    text-decoration: none;
+
+}
+
+.top-corner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+section {
+    display: flex;
+    margin-bottom: 175px;
+}
+
+.upper-lane {
+    width: 50%;
+    padding-left: 75px;
+}
+
+.upper-lane img {
+    width: 400px;
+}
