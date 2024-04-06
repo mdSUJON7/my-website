@@ -9,7 +9,7 @@ body {
 }
 
 .design {
-    background-color: rgb(221, 228, 236);
+    background-color: rgb(50, 126, 213);
     padding: 12px;
     font-size: 35px;
     border-radius: 15px;
@@ -23,7 +23,7 @@ body {
     background-repeat: no-repeat;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 175px;
 }
@@ -33,6 +33,32 @@ section {
     padding-left: 75px;
 }
 
+
 .upper-lane img {
     width: 400px;
+}
+
+.middle-top {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.last-part {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    padding-right: 5px;
+    box-shadow: 20px 20px 20px 20px navy;
+    border-radius: 17px;
+    border-left: 10px solid blue;
+
+}
+
+.ex-area {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    padding-left: 22px;
+
 }
